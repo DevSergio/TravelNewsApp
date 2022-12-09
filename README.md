@@ -4,12 +4,12 @@ Implement test task app that allow to show news feed , profile list and cache th
 
 Tech stack :
 
-Kotlin 
-MVVM 
-Jetpack Compose 
-Room 
-Coroutines
-Flow 
-Hilt 
-Retrofit 
-Coil
+<li> Kotlin  <br />
+<li> MVVM  <br />
+<li> Jetpack Compose  <br />
+<li> Room  <br />
+<li> Coroutines <br />
+<li> Flow  <br />
+<li> Hilt  <br />
+<li> Retrofit  <br />
+<li> Coil <br />
