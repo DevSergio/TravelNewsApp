@@ -3,7 +3,6 @@ package com.travel.news.app.presentation
 import androidx.compose.runtime.Composable
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.travel.news.app.R
-import com.travel.news.app.presentation.details.TouristDetailsScreen
 import com.travel.news.app.presentation.news_feed.NewsFeedScreen
 import com.travel.news.app.presentation.tourist_list.TouristListScreen
 
